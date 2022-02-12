@@ -17,12 +17,6 @@
       "text": "Food Shopping",
       "day": "March 3rd ad 11:00am",
       "reminder": false
-    },
-    {
-      "id": 2515,
-      "text": "test",
-      "day": "test",
-      "reminder": false
     }
   ]
 }
